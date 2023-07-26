@@ -1,0 +1,22 @@
+{
+  "name": "@blankbozz/logger",
+  "version": "1.0.0",
+  "description": "### Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blankbozz/Package.git"
+  },
+  "keywords": [
+    "log",
+    "colors"
+  ],
+  "author": "Saran",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
